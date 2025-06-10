@@ -44,8 +44,11 @@ Spam Email Detector is a web application that allows users to input a message an
    ```
 
 3. Enter your message in the text area and click the "Detect Spam" button.
+4. ![image](https://github.com/user-attachments/assets/12ec8f90-7c0f-4f7c-ab7b-75209e79f87a)
 
-4. The prediction ("Spam" or "Ham") will be displayed on the page.
+
+5. The prediction ("Spam" or "Ham") will be displayed on the page.
+![image](https://github.com/user-attachments/assets/1f9ffeb8-b560-4f95-aa67-31dbfe66dc7a)
 
 ## Project Structure
 
